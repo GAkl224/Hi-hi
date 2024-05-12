@@ -1,3 +1,12 @@
 
 createStrcmp.exe
 .vscode/tasks.json
+Board.cpp
+Board.h
+Game.cpp
+Game.h
+Gauri_001.code-workspace
+main.cpp
+Player.cpp
+PLayer.h
+tempCodeRunnerFile.cpp
